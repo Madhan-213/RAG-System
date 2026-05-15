@@ -282,7 +282,7 @@ Fix:
 pytest
 ```
 
-## Notes
+## Note
 
 - The current evaluation metrics are lightweight local heuristics for regression checks.
 - Conversation memory and semantic caching are in-memory by default.
